@@ -4,7 +4,7 @@
 git clone https://github.com/Jiuhong-casperlabs/recover_base64_tool.git
 ```
 
-If you haven't installed git, (download)[https://git-scm.com/downloads]
+If you haven't installed git, [download](https://git-scm.com/downloads)
 
 
 ## step2:
