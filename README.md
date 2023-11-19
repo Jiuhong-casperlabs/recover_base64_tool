@@ -1,12 +1,13 @@
 ## step1:
 
 ```
-git clone 
+git clone https://github.com/Jiuhong-casperlabs/recover_base64_tool.git
 ```
 
 ## step2:
 
 ```
+cd recover_base64_tool
 npm i
 ```
 
