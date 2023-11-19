@@ -1,0 +1,17 @@
+{
+  "name": "recover_base64_tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "base64topem_Secp256K1": "node -r esm -e 'require(\"./base64topem_Secp256K1.js\")'",
+    "base64topem_Ed25519": "node -r esm -e 'require(\"./base64topem_Ed25519.js\")'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "casper-js-sdk": "^2.15.3",
+    "esm": "^3.2.25"
+  }
+}
