@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "base64topem_Secp256K1": "node -r esm -e 'require(\"./base64topem_Secp256K1.js\")'",
-    "base64topem_Ed25519": "node -r esm -e 'require(\"./base64topem_Ed25519.js\")'"
+    "base64topem_Secp256K1": "node -r esm -e 'require(\"./src/base64topem_Secp256K1.js\")'",
+    "base64topem_Ed25519": "node -r esm -e 'require(\"./src/base64topem_Ed25519.js\")'",
+    "getaccountfrompem": "node -r esm -e 'require(\"./src/getaccountfrompem.js\")'",
+    "pvhextokp": "node -r esm -e 'require(\"./src/pvhextokp.js\")'"
   },
   "keywords": [],
   "author": "",
